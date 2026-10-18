@@ -1,0 +1,10 @@
+{
+  "name": "SchoolAI Manager",
+  "description": "Multi-School SaaS platform for managing students, marks, attendance, fees, and natural language AI voice data entry.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
